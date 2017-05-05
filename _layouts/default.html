@@ -15,15 +15,12 @@
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     </section>
 
-    <section class="social-media">
+    <section class="main-content">
       {% if site.fb_event_number %}
       <span class="fb"><a href="https://www.facebook.com/events/{{ site.fb_event_number }}/">Tapahtuma Facebookissa <img src="{{ '/media/images/fb.png' | relative_url }}" alt="Facebook"/></a></span>
       {% endif %}
-    </section>
-    <section class="main-content">
+      
       {{ content }}
-
-<!--      <iframe class="mapframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=24.86254334449768%2C60.21930164804924%2C24.868063330650333%2C60.22087893949308&amp;layer=mapnik&amp;marker=60.220090303256086%2C24.865303337574005" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=60.22009&amp;mlon=24.86530#map=18/60.22009/24.86530">Näytä isommalla kartalla</a></small> -->
       
       <footer class="site-footer">
         <p>Tapahtuman järjestää</p>
