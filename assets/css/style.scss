@@ -1,6 +1,9 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
+
 .page-header {
     color: #ff00ff;
     text-align: center;
@@ -60,4 +63,3 @@ body {
     color: #ff00ff;
 }
 
-@import "{{ site.theme }}";
