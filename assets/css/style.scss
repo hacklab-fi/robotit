@@ -8,6 +8,7 @@
     text-align: center;
     text-shadow: -2px 2px white, 2px 2px white, 2px -2px white, -2px -2px white;
     background-color: #ffd42a;
+    background-image: none;
 }
 
 
@@ -15,11 +16,10 @@ body {
     background-image: url('../../media/images/robotti.png');
     background-repeat: no-repeat;
     background-position: right bottom;
+    background-attachment: fixed;
 }
 
-html, body {
-    height: 100%;
-}
+
 
 @media screen and (max-width: 42em) { .main-content { background-color: #ffffffDD;} }
 
