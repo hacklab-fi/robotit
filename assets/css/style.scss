@@ -6,7 +6,7 @@
 .page-header {
     color: #ff00ff;
     text-align: center;
-    text-shadow: -2px 2px white, 2px 2px white, 2px -2px white, -2px -2px white;
+    text-shadow: -1px 1px white, 1px 1px white, 1px -1px white, -1px -1px white;
     background-color: #ffd42a;
     
     background-image: url('../../media/images/otsikkokuva.png');
@@ -28,7 +28,10 @@ body {
     padding-bottom: 250px;
 }
 
-
+.project-tagline {
+    opacity: 1.0;
+    font-size: 1.5rem;
+}
 
 @media screen and (max-width: 42em) { .main-content { background-color: #ffffffDD;} }
 
