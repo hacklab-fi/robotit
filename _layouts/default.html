@@ -15,6 +15,11 @@
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     </section>
 
+    <section class="social-media">
+      {% if site.fb_event_number %}
+      <span class="fb"><a href="https://www.facebook.com/events/{{ site.fb_event_number }}/">Tapahtuma Facebookissa <img src="../media/images/fb.png" alt="Facebook"/></a></span>
+      {% endif %}
+    </section>
     <section class="main-content">
       {{ content }}
 
