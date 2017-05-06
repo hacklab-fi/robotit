@@ -6,8 +6,8 @@ description: Pienoisrobottien kisa Pitäjänmäessä
 
 fb_event_number: 1165421916919554
 
-twitter_image: "media/images/tw_robotti.png"
+twitter_image: "/media/images/tw_robotti.png"
 twitter_account: "@HelsinkiHacklab"
 
 og_url: "http://robotit.hacklab.fi"
-og_image:
+og_image: "/media/images/tw_robotti.png"
