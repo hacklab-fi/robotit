@@ -9,6 +9,9 @@ Viime vuonna ensi kertaa järjestetty robottitapahtuma on taas täällä. Pienet
 ![](media/photos/2016_001.jpg?raw=true "Peltihirmu")
 ![](media/photos/2016_002.jpg?raw=true "Kisa 2016")
 
-
 *Tapahtumapaikka*
 ![](media/images/kartta_puistoon.jpg?raw=true "Puistossa putouksien luona")
+
+## Vuoden 2016 kisa
+
+Kuvia ja tuloksia viime vuodelta [vuoden 2016 kisasivulla](2016.html)
