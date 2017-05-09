@@ -1,6 +1,6 @@
 ## Robotit Strömbergin puistossa
 
-Lauantaina **10.6.** klo 14 - 16
+Lauantaina **10.6.** klo 16 - 17.30
 
 Viime vuonna ensi kertaa järjestetty robottitapahtuma on taas täällä. Pienet robotit yrittävät löytää tiensä sokkelossa ja törmäilevät seiniin. Kuka pääsee maaliin asti?
 
@@ -14,4 +14,4 @@ Viime vuonna ensi kertaa järjestetty robottitapahtuma on taas täällä. Pienet
 
 ## Vuoden 2016 kisa
 
-Kuvia ja tuloksia viime vuodelta [vuoden 2016 kisasivulla](2016.html)
+Kuvia ja tuloksia [vuoden 2016 kisasivulla](2016.html)
