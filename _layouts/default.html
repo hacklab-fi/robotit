@@ -36,7 +36,6 @@
     <meta property="og:site_name" content="{{ page.title | default: site.title }}" />
     
     <!-- JSON-LD Rich Cards -->
-    
     {% if page.url == "/" %}
     <script type="application/ld+json">
     {
@@ -44,7 +43,7 @@
       "@type": "Event",
       "name": "{{ page.title | default: site.title }}",
       "startDate": "{{ site.start_ISO8601 }}",
-      "image": "{{ site.og_image | prepend: site.baseurl | prepend: site.url }}",
+      {% if site.og_image %} "image": "{{ site.og_image | prepend: site.baseurl | prepend: site.url }}",{% endif %}
       "description": "{{ site.social_media_description }}",
       "endDate": "{{ site.end_ISO8601 }}",
       "location": {
@@ -55,13 +54,11 @@
             "@type": "GeoCoordinates",
             "latitude": 60.22009,
             "longitude": 24.86539
-          }
         }
       }
     }
     </script>
     {% endif %}
-    
     
     
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
