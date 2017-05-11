@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "fi-FI" }}">
   <head>
+    <!-- {{page.url}} -->
+    
     <meta charset="UTF-8">
     <title>{{ page.title | default: site.title }} {{ site.this_year }}</title>
     <meta name="description" content="{{ page.description | default: site.description }} {{ site.date_and_time }}"/>
@@ -34,7 +36,8 @@
     <meta property="og:site_name" content="{{ page.title | default: site.title }}" />
     
     <!-- JSON-LD Rich Cards -->
-    {% if page.url == "/index.html" %}
+    
+    {% if page.url == "/" %}
     <script type="application/ld+json">
     {
       "@context": "http://schema.org",
