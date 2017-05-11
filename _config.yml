@@ -2,6 +2,8 @@ theme: jekyll-theme-cayman
 
 title: Robotit Strömbergin puistossa
 date_and_time: 10.6.2017 klo 16-17.30
+start_ISO8601: 2017-06-10T1600
+end_ISO8601: 2017-06-10T1730
 this_year: 2017
 description: Pienoisrobottien kisa Pitäjänmäessä
 
