@@ -33,6 +33,33 @@
     <meta property="og:description" content="{{ site.date_and_time }} | {{ site.social_media_description }}" />
     <meta property="og:site_name" content="{{ page.title | default: site.title }}" />
     
+    <!-- JSON-LD Rich Cards -->
+    {% if page.url == "/index.html" %}
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Event",
+      "name": "{{ page.title | default: site.title }}",
+      "startDate": "{{ site.start_ISO8601 }}",
+      "image": "{{ site.og_image | prepend: site.baseurl | prepend: site.url }}",
+      "description": "{{ site.social_media_description }}",
+      "endDate": "{{ site.end_ISO8601 }}",
+      "location": {
+        "@type": "Place",
+        "name": "Strömbergin puiston putoukset",
+        "address": "Strömbergin puisto, Pitäjänmäki",
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 60.22009,
+            "longitude": 24.86539
+          }
+        }
+      }
+    }
+    </script>
+    {% endif %}
+    
+    
     
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
