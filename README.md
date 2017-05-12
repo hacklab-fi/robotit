@@ -15,3 +15,7 @@ Viime vuonna ensi kertaa järjestetty robottitapahtuma on taas täällä. Pienet
 ## Vuoden 2016 kisa
 
 Kuvia ja tuloksia [vuoden 2016 kisasivulla](2016.html)
+
+## Säännöt ja rata
+
+Millainen rata on? Mitkä ovat säännöt? Voinko minäkin osallistua kisaan? [Säännöt ja osallistumisohjeet löytyvät täältä.](kisan_saannot.html)
