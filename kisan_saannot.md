@@ -14,15 +14,21 @@ Jos robottia joutuu auttamaan käsin koskettamalla, lisätään kilpailijalle ai
 
 Rataan saa kiinnittää robotille avustavia merkkejä tai teknisiä apuja, mutta ne on pystyttävä asettamaan ennen omaa suoritusta ja poistettava tämän jälkeen.
 
-Valmiit roboit alustat ovat sallittuja, mutta suositeltavinta on osallistua itse rakennetulla robotin rungolla. Tee-se-itse on osa kisan henkeä!
-
 Kisaajalla on noin kolme kierrosta yritettävänään, joista valitaan paras aika.
-
-Sääntöjen kiertäminen, hauskat temput ja muut yllätykset ovat sallittuja ja toivottavia!
 
 Kaikenlaiset anturit ovat sallittuja. Huom: infrapuna-anturit voivat toimia epäluotettavasti auringonvalossa! Ultraääni voi olla toimintavarmempi vaihtoehto.
 
+## Kisan henki
+
+Valmiit roboit alustat ovat sallittuja, mutta suositeltavinta on osallistua itse rakennetulla robotin rungolla. Tee-se-itse on osa kilpailua!
+
+Sääntöjen kiertäminen, hauskat temput ja muut yllätykset ovat sallittuja ja toivottavia!
+
 Nopeimman robotin lisäksi kilpailussa voidaan palkita hienoimmat, hauskimmat tai muulla tavoin kiinnostavat robotit.
+
+Rata voi olla haastava aloittelijalle, mutta konkarille jopa liian helppo. Kokeneet ja nopeuskisoja voittaneet rakentelijat haastetaan ylittämään itsensä: jos rata tuntuu liian helpolta, tee vaikeampi robotti! Kävelevä, hyppivä, pyörivä, tanssiva – mitä tahansa, mikä johtaa johonkin uuteen haasteeseen.
+
+Kisa on esitys! Muista koristelu, vilkkuvat valot ja hauskat äänet. Huonostikin toimiva robotti saattaa silti olla kisan hauskin.
 
 ## Mukaan kisaamaan?
 
