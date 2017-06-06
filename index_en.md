@@ -2,7 +2,7 @@
 
 On Saturday **10.6.** at 16 - 17.30
 
-First time organized in 2016. Small robots try to find their way in a maze and bump into walls. Can they find their way to the goal line?
+First time organized in 2016. Small robots try to find their way in a maze and bump against walls. Can they find their way to the goal line?
 
 **Meet us at Strömberg park waterfall!**
 
