@@ -1,6 +1,6 @@
-## Robots at Strömberg park
+## Robots in Strömberg park
 
-Saturday **10.6.** at 16 - 17.30
+On Saturday **10.6.** at 16 - 17.30
 
 First time organized in 2016. Small robots try to find their way in a maze and bump into walls. Can they find their way to the goal line?
 
@@ -9,7 +9,7 @@ First time organized in 2016. Small robots try to find their way in a maze and b
 ![](media/photos/2016_001.jpg?raw=true "Peltihirmu")
 ![](media/photos/2016_002.jpg?raw=true "Kisa 2016")
 
-*Place*
+*Map*
 ![](media/images/kartta_puistoon.jpg?raw=true "Next to waterfalls")
 
 ## 2016 competition
