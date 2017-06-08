@@ -75,6 +75,11 @@
       <span class="fb"><a href="https://www.facebook.com/events/{{ site.fb_event_number }}/">{{ site.this_year }} tapahtuma Facebookissa <img src="{{ '/media/images/fb.png' | relative_url }}" alt="Facebook"/></a></span>
       {% endif %}
       
+      {% if site.possible_rain %}
+      <p>Pieni sade ei haittaa, robotit tuovat teltan mukanaan puistoon!</p>
+      <img src="media/robotti_sade.png?raw=true" alt="" title="Sadesää">
+      {% endif %}
+      
       {{ content }}
       
       <footer class="site-footer">
