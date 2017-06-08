@@ -21,3 +21,5 @@ og_image_height: "440"
 og_image_type: "image/png"
 
 social_media_description: "Pienet robotit kisaavat sokkeloradalla ja törmäilevät seiniin. Kuka pääsee maaliin asti? Ilmainen koko perheen tapahtuma Pitskussa."
+
+possible_rain: true
