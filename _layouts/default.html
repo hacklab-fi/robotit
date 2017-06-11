@@ -75,7 +75,7 @@
       <span class="fb"><a href="https://www.facebook.com/events/{{ site.fb_event_number }}/">{{ site.this_year }} tapahtuma Facebookissa <img src="{{ '/media/images/fb.png' | relative_url }}" alt="Facebook"/></a></span>
       {% endif %}
       
-      {% if site.possible_rain %}
+      {% if site.possible_rain and page.url == "/"%}
       <h1>Sade ei haittaa!</h1>
       <p>Robotit tuovat teltan mukanaan puistoon, joten ei haittaa vaikka sää olisi huono. Sateenvarjo mukaan!</p>
       <img src="/media/images/robotti_sade.png?raw=true" alt="" title="Sadesää">
