@@ -75,11 +75,19 @@
       <span class="fb"><a href="https://www.facebook.com/events/{{ site.fb_event_number }}/">{{ site.this_year }} tapahtuma Facebookissa <img src="{{ '/media/images/fb.png' | relative_url }}" alt="Facebook"/></a></span>
       {% endif %}
       
-      {% if site.possible_rain and page.url == "/"%}
-      <h1>Sade ei haittaa!</h1>
-      <p>Robotit tuovat teltan mukanaan puistoon, joten ei haittaa vaikka sää olisi huono. Sateenvarjo mukaan!</p>
-      <img src="/media/images/robotti_sade.png?raw=true" alt="" title="Sadesää">
-      <br/>
+      {% if page.url == "/" %}
+        {% if site.possible_rain  %}
+        <h1>Sade ei haittaa!</h1>
+        <p>Robotit tuovat teltan mukanaan puistoon, joten ei haittaa vaikka sää olisi huono. Sateenvarjo mukaan!</p>
+        <img src="/media/images/robotti_sade.png?raw=true" alt="" title="Sadesää">
+        <br/>
+        {% endif %}
+        {% if site.see_you_in_next_event %}
+        <h1>Tavataan taas ensi vuonna</h1>
+        <p>Robotit saapuvat puistoon ensi taas vuonna uudestaan. Nähdään silloin!</p>
+        <img src="/media/images/ensi_vuonna.png?raw=true" alt="" title="Ensi vuonna uudestaan">
+        <br/>
+        {% endif %}
       {% endif %}
       
       {{ content }}
