@@ -7,10 +7,10 @@
     {% if page.url == "/" %}
       <title>{{ page.title }} {{ site.this_year }}</title>
       <meta name="description" content="{{ site.description }} {{ site.date_and_time }}"/>
-    {% else &}
+    {% else %}
       <title>{{ site.title }}</title>
       <meta name="description" content="{{ page.description }}"/>
-    {% endif &}
+    {% endif %}
     
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
@@ -22,11 +22,11 @@
       <meta name="twitter:card" content="{{ site.description }} {{ site.date_and_time }}">
       <meta name="twitter:title" content="{ {default: site.title }}">
       <meta name="twitter:description" content="{{ site.date_and_time }} | {{ site.social_media_description }}">
-    {% else &}
+    {% else %}
       <meta name="twitter:card" content="{{ page.description }}">
       <meta name="twitter:title" content="{{ page.title }}">
       <meta name="twitter:description" content="{{ site.social_media_description }}">
-    {% endif &}
+    {% endif %}
     <meta name="twitter:site" content="{{ site.twitter_account }}">
     <meta name="twitter:creator" content="{{ site.twitter_account }}">
     {% if site.twitter_image %}
@@ -40,11 +40,11 @@
       <meta property="og:title" content="{{ site.title }}" />
       <meta property="og:url" content="{{ site.baseurl | prepend: site.url }}" />
       <meta property="og:description" content="{{ site.date_and_time }} | {{ site.social_media_description }}" />
-    {% else &}
+    {% else %}
       <meta property="og:title" content="{{ page.title }}" />
       <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
       <meta property="og:description" content="{{ site.social_media_description }}" />
-    {% endif &}
+    {% endif %}
 
     {% if site.og_image %}
     <meta property="og:image" content="{{ site.og_image | prepend: site.baseurl | prepend: site.url }}" />
