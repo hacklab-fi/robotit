@@ -12,6 +12,11 @@ Viime vuonna ensi kertaa järjestetty robottitapahtuma on taas täällä. Pienet
 *Tapahtumapaikka*
 ![](media/images/kartta_puistoon.jpg?raw=true "Puistossa putouksien luona")
 
+
+## Uusin kisa 2017
+
+Miten kävi vuoden 2017 kisassa? [Katso tulokset ja valokuvat!](2017.html)
+
 ## Vuoden 2016 kisa
 
 Kuvia ja tuloksia [vuoden 2016 kisasivulla](2016.html)
