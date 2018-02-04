@@ -1,6 +1,6 @@
 # Robottikisan rata ja säännöt
 
-Robottikisan rata on 1x2 metrin kokoinen puinen sokkelo, jossa on käännöksiä sekä oikealle että vasemmalle ja tasainen muovimatto pohjana. Robotin pitää pystyä liikkumaan radalla, jonka reitti on kapeimmillaan 40 cm. Kiertosuunta on myötäpäivään, joten ensimmäinen käännös on oikealle.
+Robottikisan rata on 1x2 metrin kokoinen puinen sokkelo, jossa on käännöksiä sekä oikealle että vasemmalle ja tasainen muovimatto pohjana. Robotin pitää pystyä liikkumaan radalla, jonka reitti on kapeimmillaan 40 cm. Kiertosuunta on myötäpäivään, joten ensimmäinen käännös on oikealle. Reunat ovat 20 cm korkeat.
 
 ![](media/images/roboradan_kuva.png?raw=true "Kisaradan kuva")
 
