@@ -19,11 +19,11 @@
     
      <!-- Twitter Card data -->
     {% if page.url == "/" %}
-      <meta name="twitter:card" content="{{ site.description }} {{ site.date_and_time }}">
+      <meta name="twitter:card" content="summary">
       <meta name="twitter:title" content="{{ site.title }}">
       <meta name="twitter:description" content="{{ site.date_and_time }} | {{ site.social_media_description }}">
     {% else %}
-      <meta name="twitter:card" content="{{ page.description }}">
+      <meta name="twitter:card" content="summary}">
       <meta name="twitter:title" content="{{ page.title | default: site.title }}">
       <meta name="twitter:description" content="{{ site.social_media_description }}">
     {% endif %}
