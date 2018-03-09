@@ -1,8 +1,8 @@
 ## Robotit Strömbergin puistossa
 
-Lauantaina **10.6.** klo 16 - 17.30
+Lauantaina **9.6.** klo 16 - 17.30
 
-Viime vuonna ensi kertaa järjestetty robottitapahtuma on taas täällä. Pienet robotit yrittävät löytää tiensä sokkelossa ja törmäilevät seiniin. Kuka pääsee maaliin asti?
+Strömbergin puiston robottitapahtuma järjestään jälleen kerran vuonna 2018. Pienet robotit yrittävät löytää tiensä sokkelossa ja törmäilevät seiniin. Kuka pääsee maaliin asti?
 
 **Tavataan Strömbergin puiston putouksilla!**
 
@@ -13,11 +13,11 @@ Viime vuonna ensi kertaa järjestetty robottitapahtuma on taas täällä. Pienet
 ![](media/images/kartta_puistoon.jpg?raw=true "Puistossa putouksien luona")
 
 
-## Uusin kisa 2017
+## Kisa 2017
 
 Miten kävi vuoden 2017 kisassa? [Katso tulokset ja valokuvat!](2017.html)
 
-## Vuoden 2016 kisa
+## Kisa 2016
 
 Kuvia ja tuloksia [vuoden 2016 kisasivulla](2016.html)
 

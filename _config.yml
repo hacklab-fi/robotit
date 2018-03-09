@@ -1,15 +1,20 @@
 theme: jekyll-theme-cayman
+#markdown: kramdown
 
 title: Robotit Strömbergin puistossa
-date_and_time: 10.6.2017 klo 16-17.30
-start_ISO8601: 2017-06-10T1600
-end_ISO8601: 2017-06-10T1730
-this_year: 2017
+date_and_time: 9.6.2018 klo 16-17.30
+
+# Meta-kuvauksiin:
+start_ISO8601: 2018-06-09T1600
+end_ISO8601: 2018-06-09T1730
+
+# Minkä vuoden tietoja sivulla esitetään
+this_year: 2018
 description: Pienoisrobottien kisa Pitäjänmäessä Helsingissä
 
-taike: true
 
-fb_event_number: 1165421916919554
+# Jos on tiedossa tapahtuman FB-sivu:
+#fb_event_number: 1165421916919554
 
 twitter_image: "/media/images/tw_robotti.png"
 twitter_account: "@HelsinkiHacklab"
@@ -22,5 +27,11 @@ og_image_type: "image/png"
 
 social_media_description: "Pienet robotit kisaavat sokkeloradalla ja törmäilevät seiniin. Kuka pääsee maaliin asti? Ilmainen koko perheen tapahtuma Pitskussa."
 
+
+# Pika-asetukset nopeaan muokkaamiseen
+# Jos on tiedossa sadetta, laita tähän true
 possible_rain: false
-see_you_in_next_event: true
+# Laita true tähän, kun seuraavaan tapahtuma on vasta pitkän ajan kuluttua:
+see_you_in_next_event: false
+# Näytä Taiken logo
+taike: true
