@@ -6,8 +6,7 @@ Strömbergin puiston robottitapahtuma järjestään jälleen kerran vuonna 2018.
 
 **Tavataan Strömbergin puiston putouksilla!**
 
-Samana päivänä samassa paikassa [http://kaupunginosat.net/pitajanmaki/kotikaupunkipolut/1-mtjoki-mainmenu-893/7-pitjnmki/2561-pitskun-putous-lauantaina-9-kesakuuta-12-15-strombergin-puistossa](Pitskun 
-Putous) -tapahtuma klo 12 alkaen.
+Samana päivänä samassa paikassa [Pitskun Putous](http://kaupunginosat.net/pitajanmaki/kotikaupunkipolut/1-mtjoki-mainmenu-893/7-pitjnmki/2561-pitskun-putous-lauantaina-9-kesakuuta-12-15-strombergin-puistossa) -tapahtuma klo 12 alkaen.
 
 ![](media/photos/2016_001.jpg?raw=true "Peltihirmu")
 ![](media/photos/2016_002.jpg?raw=true "Kisa 2016")
