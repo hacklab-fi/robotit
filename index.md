@@ -1,3 +1,5 @@
+---
+---
 ## Robotit Strömbergin puistossa
 
 Lauantaina **9.6.** klo 16 - 17.30
@@ -15,13 +17,18 @@ Samana päivänä samassa paikassa [Pitskun Putous](http://kaupunginosat.net/pit
 ![](media/images/kartta_puistoon.jpg?raw=true "Puistossa putouksien luona")
 
 
-## Kisa 2017
+## Kisa 2018
 
-Miten kävi vuoden 2017 kisassa? [Katso tulokset ja valokuvat!](2017.html)
+Vuoden 2018 kisasta tulossa kuvia tänne kesäkuussa! [2018 kisan 
+sivut](2018.html)
 
-## Kisa 2016
+## Vanhat kisat
 
-Kuvia ja tuloksia [vuoden 2016 kisasivulla](2016.html)
+Aikaisempien vuosien kuvia ja tuloksia:
+
+[2017](2017.html)
+
+[2016](2016.html)
 
 ## Säännöt ja rata
 

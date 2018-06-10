@@ -1,4 +1,8 @@
+---
+---
 # Robottikisan rata ja säännöt
+
+*Huom! Kisarataan mahdollisesti tulossa muutoksia vuonna 2019: laitojen korkeus saattaa muuttua*
 
 Robottikisan rata on 1x2 metrin kokoinen puinen sokkelo, jossa on käännöksiä sekä oikealle että vasemmalle ja tasainen muovimatto pohjana. Robotin pitää pystyä liikkumaan radalla, jonka reitti on kapeimmillaan 40 cm. Kiertosuunta on myötäpäivään, joten ensimmäinen käännös on oikealle. Reunat ovat 20 cm korkeat.
 
