@@ -2,20 +2,20 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 
 title: Robotit Strömbergin puistossa
-date_and_time: 9.6.2018 klo 16-17.30
+date_and_time: 15.6.2019 klo 16-17.30
 
 # Meta-kuvauksiin:
-start_ISO8601: 2018-06-09T1600
-end_ISO8601: 2018-06-09T1730
+start_ISO8601: 2019-06-15T1600
+end_ISO8601: 2019-06-15T1730
 
 # Minkä vuoden tietoja sivulla esitetään
-this_year: 2018
+this_year: 2019
 description: Pienoisrobottien kisa Pitäjänmäessä Helsingissä
 
 
 # Jos on tiedossa tapahtuman FB-sivu:
 #fb_event_number: 1165421916919554
-fb_event_number: 595385874156556
+#fb_event_number: 595385874156556
 
 twitter_image: "/media/images/tw_robotti.png"
 twitter_account: "@HelsinkiHacklab"
