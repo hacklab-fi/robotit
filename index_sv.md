@@ -2,7 +2,7 @@
 ---
 ## Robotar i Strömberg park
 
-På Lördag **9.6.** klockan 16 - 17.30
+På Lördag **15.6.2019** klockan 16 - 17.30
 
 Små robotar försöker röra sig i en labyrint och krockar med väggar. Kan de hitta sin väg till mållinjen?
 
@@ -14,10 +14,10 @@ Små robotar försöker röra sig i en labyrint och krockar med väggar. Kan de 
 *Kartan*
 ![](media/images/kartta_puistoon.jpg?raw=true "vid vattenfallet")
 
-## 2017 tävling
+## Förra tävlingar
 
-Fotos av [2017 tävling (FI)](2017.html)
+[2018 tävling (FI)](2018.html)
 
-## 2016 tävling
+[2017 tävling (FI)](2017.html)
 
-Fotos av [2016 tävling (FI)](2016.html)
+[2016 tävling (FI)](2016.html)
