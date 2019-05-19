@@ -19,7 +19,7 @@ Strömbergin puiston robottitapahtuma järjestään jälleen kerran vuonna 2018.
 
 Aikaisempien vuosien kuvia ja tuloksia:
 
-[2017](2018.html)
+[2018](2018.html)
 
 [2017](2017.html)
 
