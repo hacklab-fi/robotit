@@ -16,6 +16,7 @@ description: Pienoisrobottien kisa Pitäjänmäessä Helsingissä
 # Jos on tiedossa tapahtuman FB-sivu:
 #fb_event_number: 1165421916919554
 #fb_event_number: 595385874156556
+fb_event_number: 821540898226172
 
 twitter_image: "/media/images/tw_robotti.png"
 twitter_account: "@HelsinkiHacklab"

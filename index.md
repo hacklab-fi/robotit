@@ -4,7 +4,7 @@
 
 Lauantaina **15.6.2019** klo 16 - 17.30
 
-Strömbergin puiston robottitapahtuma järjestään jälleen kerran vuonna 2018. Pienet robotit yrittävät löytää tiensä sokkelossa ja törmäilevät seiniin. Kuka pääsee maaliin asti?
+Strömbergin puiston robottitapahtuma järjestään jälleen kerran vuonna 2019. Pienet robotit yrittävät löytää tiensä sokkelossa ja törmäilevät seiniin. Kuka pääsee maaliin asti?
 
 **Tavataan Strömbergin puiston putouksilla!**
 
