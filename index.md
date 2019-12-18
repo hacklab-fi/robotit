@@ -2,9 +2,9 @@
 ---
 ## Robotit Strömbergin puistossa
 
-Lauantaina **15.6.2019** klo 16 - 17.30
+Lauantaina **{{ site.date }}** klo 16 - 17.30
 
-Strömbergin puiston robottitapahtuma järjestään jälleen kerran vuonna 2019. Pienet robotit yrittävät löytää tiensä sokkelossa ja törmäilevät seiniin. Kuka pääsee maaliin asti?
+Strömbergin puiston robottitapahtuma tulee taas! Pienet robotit yrittävät löytää tiensä sokkelossa ja törmäilevät seiniin. Kuka pääsee maaliin asti?
 
 **Tavataan Strömbergin puiston putouksilla!**
 
@@ -18,6 +18,8 @@ Strömbergin puiston robottitapahtuma järjestään jälleen kerran vuonna 2019.
 ## Vanhat kisat
 
 Aikaisempien vuosien kuvia ja tuloksia:
+
+[2019](2019.html)
 
 [2018](2018.html)
 
