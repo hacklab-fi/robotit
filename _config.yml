@@ -1,6 +1,9 @@
 theme: jekyll-theme-cayman
 markdown: kramdown
 
+plugins:
+  - jekyll-default-layout
+
 title: Robotit Strömbergin puistossa
 date_and_time: 15.6.2019 klo 16-17.30
 
