@@ -2,7 +2,7 @@
 ---
 ## Robots in Strömberg park
 
-On Saturday **15.6.2019** at 16 - 17.30
+On Saturday **{{ site.date }}** at 16 - 17.30
 
 First time organized in 2016. Small robots try to find their way in a maze and bump against walls. Can they find their way to the goal line?
 
@@ -16,6 +16,8 @@ First time organized in 2016. Small robots try to find their way in a maze and b
 
 
 ## Previous competitions
+
+[2019 competition (FI)](2019.html)
 
 [2018 competition (FI)](2018.html)
 

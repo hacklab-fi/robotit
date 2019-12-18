@@ -5,14 +5,17 @@ plugins:
   - jekyll-default-layout
 
 title: Robotit Strömbergin puistossa
-date_and_time: 15.6.2019 klo 16-17.30
+# header
+date_and_time: 6.6.2020 klo 16-17.30
+# content pages have
+date: 6.6.2020
 
 # Meta-kuvauksiin:
-start_ISO8601: 2019-06-15T1600
-end_ISO8601: 2019-06-15T1730
+start_ISO8601: 2019-06-06T1600
+end_ISO8601: 2019-06-06T1730
 
 # Minkä vuoden tietoja sivulla esitetään
-this_year: 2019
+this_year: 2020
 description: Pienoisrobottien kisa Pitäjänmäessä Helsingissä
 
 
