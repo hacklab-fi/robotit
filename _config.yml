@@ -18,11 +18,11 @@ end_ISO8601: 2019-06-06T1730
 this_year: 2020
 description: Pienoisrobottien kisa Pitäjänmäessä Helsingissä
 
+# 2019
+#fb_event_number: 821540898226172
 
-# Jos on tiedossa tapahtuman FB-sivu:
-#fb_event_number: 1165421916919554
-#fb_event_number: 595385874156556
-fb_event_number: 821540898226172
+# 2020 fb event, TODO: uncomment and update after the fb event has been created
+#fb_event_number: not_known_yet
 
 twitter_image: "/media/images/tw_robotti.png"
 twitter_account: "@HelsinkiHacklab"
