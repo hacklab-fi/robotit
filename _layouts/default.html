@@ -2,7 +2,7 @@
 <html lang="{{ site.lang | default: "fi-FI" }}">
   <head>
     <!-- {{page.url}} -->
-    
+
     <meta charset="UTF-8">
     {% if page.url == "/" %}
       <title>{{ site.title }} {{ site.this_year }}</title>
@@ -11,12 +11,12 @@
       <title>{{ page.title }}</title>
       <meta name="description" content="{{ page.description }}"/>
     {% endif %}
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
-    
+
     <meta name="google-site-verification" content="ed1qMBtWXz7Kk8FyxI3P_QBpT1nO-TcfRk_S836YTF4" />
-    
+
      <!-- Twitter Card data -->
     {% if page.url == "/" %}
       <meta name="twitter:card" content="summary">
@@ -33,7 +33,7 @@
     <!-- Twitter Summary card images must be at least 120x120px -->
     <meta name="twitter:image" content="{{ site.twitter_image | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
-    
+
     <!-- Open Graph data -->
     <meta property="og:type" content="website" />
     {% if page.url == "/" %}
@@ -53,7 +53,7 @@
     <meta property="og:image:type" content="{{ site.og_image_type}}" />
     {% endif %}
     <meta property="og:site_name" content="{{ page.title | default: site.title }}" />
-    
+
     <!-- JSON-LD Rich Cards -->
     {% if page.url == "/" %}
     <script type="application/ld+json">
@@ -78,13 +78,19 @@
     }
     </script>
     {% endif %}
-    
-    
+
+
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
     <section class="page-header">
+      <nav>
+        <a href="/">Etusivu</a>
+        <a href="/kisan_saannot.html">Säännöt</a>
+        <a href="/index_en.html">Briefly in English</a>
+        <a href="/index_sv.html">Kort på svenska</a>
+      </nav>
       <h1 class="project-name">{{ site.date_and_time }}</h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
     </section>
@@ -93,7 +99,7 @@
       {% if site.fb_event_number %}
       <span class="fb"><a href="https://www.facebook.com/events/{{ site.fb_event_number }}/">{{ site.this_year }} tapahtuma Facebookissa <img src="{{ '/media/images/fb.png' | relative_url }}" alt="Facebook"/></a></span>
       {% endif %}
-      
+
       {% if page.url == "/" %}
         {% if site.possible_rain  %}
         <h1>Sade ei haittaa!</h1>
@@ -108,9 +114,9 @@
         <br/>
         {% endif %}
       {% endif %}
-      
+
       {{ content }}
-      
+
       <footer class="site-footer">
         <p>Tapahtuman järjestää</p>
         <span class="hacklabfi"><a href="http://hacklab.fi/"><img class="hacklabfi_img" src="{{ '/media/images/hacklab_fi_logo.png' | relative_url }}" alt="hacklab.fi"/></a></span>
