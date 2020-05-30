@@ -2,11 +2,9 @@
 ---
 ## Robotit Strömbergin puistossa
 
-Lauantaina **{{ site.date }}** klo 16 - 17.30
+~~Lauantaina **{{ site.date }}** klo 16 - 17.30~~
 
-Strömbergin puiston robottitapahtuma tulee taas! Pienet robotit yrittävät löytää tiensä sokkelossa ja törmäilevät seiniin. Kuka pääsee maaliin asti?
-
-**Tavataan Strömbergin puiston putouksilla!**
+**Peruttu corona tilanteen vuoksi. Nyt on vuosi lisää aikaa parannella robottiasi!**
 
 ![](media/photos/2016_001.jpg?raw=true "Peltihirmu")
 ![](media/photos/2016_002.jpg?raw=true "Kisa 2016")
