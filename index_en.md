@@ -2,7 +2,9 @@
 ---
 ## Robots in Strömberg park
 
-On Saturday **{{ site.date }}** at 16 - 17.30
+~~On Saturday **{{ site.date }}** at 16 - 17.30~~
+
+**2020 Event has been cancelled due to coronavirus situation.**
 
 First time organized in 2016. Small robots try to find their way in a maze and bump against walls. Can they find their way to the goal line?
 
